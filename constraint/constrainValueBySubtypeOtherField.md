@@ -1,4 +1,4 @@
-# Constain Value By Subtype and Other Field
+# Constrain Value By Subtype and Other Field
 
 This constraint attribute rule is designed to validate the value for a field is valid based on two fields.  This example is built for a feature class that participates in the Utility Network and using the Asset Group(Subtype) and the Asset Type(unique domain by subtype) to determine the valid feature.
 
